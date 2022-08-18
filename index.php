@@ -1,3 +1,7 @@
 <?php
+echo getcwd();
 
-echo "Hello World!";
+echo dirname(_FILE_);
+
+echo "Hello TATO!";
+?>
